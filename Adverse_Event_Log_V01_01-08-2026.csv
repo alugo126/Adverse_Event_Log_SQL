@@ -1,0 +1,26 @@
+ae_id,patient_id,site,ae_start_date,ae_term,Severity,Serious,Relatedness,action_taken,Outcome
+AE001,P001,Site A,1/14/2025,Nausea,Mild,No,Possible,None,Recovered
+AE002,P002,Site B,1/16/2025,Headache,Moderate,No,Unrelated,None,Recovered
+AE003,P003,Site A,1/18/2025,Dizziness,Moderate,No,Possible,Dose Reduced,Recovering
+AE004,P004,Site C,1/20/2025,Rash,Mild,No,Probable,Medication Given,Recovered
+AE005,P005,Site B,1/21/2025,Elevated Liver Enzymes,Severe,Yes,Probable,Drug Stopped,Recovering
+AE006,P006,Site A,1/23/2025,Fatigue,Mild,No,Unrelated,None,Recovered
+AE007,P007,Site C,1/25/2025,Shortness of Breath,Severe,Yes,Possible,Hospitalized,Recovering
+AE008,P008,Site B,1/26/2025,Diarrhea,Moderate,No,Possible,None,Recovered
+AE009,P009,Site A,1/28/2025,Chest Pain,Severe,Yes,Unrelated,Hospitalized,Ongoing
+AE010,P010,Site C,2/1/2025,Injection Site Pain,Mild,No,Probable,None,Recovered
+AE011,P011,Site B,2/3/2025,Fever,Moderate,No,Possible,Medication Given,Recovered
+AE012,P012,Site A,2/5/2025,Vomiting,Severe,No,Possible,Drug Interrupted,Recovering
+AE013,P013,Site C,2/7/2025,Anxiety,Mild,No,Unrelated,None,Ongoing
+AE014,P014,Site B,2/10/2025,Hypoglycemia,Severe,Yes,Probable,Hospitalized,Recovered
+AE015,P015,Site A,2/12/2025,Insomnia,Mild,No,Unrelated,None,Ongoing
+AE016,P016,Site C,2/15/2025,Blurred Vision,Moderate,No,Possible,None,Recovering
+AE017,P017,Site B,2/17/2025,Palpitations,Moderate,No,Possible,Drug Interrupted,Recovering
+AE018,P018,Site A,2/20/2025,Allergic Reaction,Severe,Yes,Probable,Drug Stopped,Recovered
+AE019,P019,Site C,2/22/2025,Back Pain,Mild,No,Unrelated,None,Ongoing
+AE020,P020,Site B,2/25/2025,Dehydration,Moderate,No,Possible,IV Fluids,Recovered
+AE021,P021,Site A,2/27/2025,Abdominal Pain,Moderate,No,Possible,None,Recovering
+AE022,P022,Site C,3/1/2025,Confusion,Severe,Yes,Possible,Hospitalized,Ongoing
+AE023,P023,Site B,3/3/2025,Constipation,Mild,No,Unrelated,None,Recovered
+AE024,P024,Site A,3/5/2025,Hypertension,Moderate,No,Possible,Medication Given,Ongoing
+AE025,P025,Site C,3/7/2025,Seizure,Severe,Yes,Unrelated,Hospitalized,Ongoing
